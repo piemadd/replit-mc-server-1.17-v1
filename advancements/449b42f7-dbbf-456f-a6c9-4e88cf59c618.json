@@ -1,0 +1,108 @@
+{
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-10-27 20:16:45 -0400"
+    },
+    "done": true
+  },
+  "ggunz:recipes/misc/gold_block": {
+    "criteria": {
+      "has_raw_gold": "2021-10-27 20:16:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-10-27 20:16:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-10-27 20:06:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-10-27 20:06:30 -0400"
+    },
+    "done": true
+  },
+  "ggunz:recipes/misc/iron_block": {
+    "criteria": {
+      "has_raw_iron": "2021-10-27 20:16:45 -0400"
+    },
+    "done": true
+  },
+  "ggunz:recipes/misc/copper_block": {
+    "criteria": {
+      "has_raw_copper": "2021-10-27 20:16:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-10-27 20:06:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-10-27 20:06:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "melon_slice": "2021-10-27 20:16:47 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-10-27 20:16:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2021-10-27 20:09:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-10-27 20:16:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-10-27 20:06:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-10-27 20:06:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle_edge": "2021-10-27 20:13:00 -0400",
+      "minecraft:forest": "2021-10-27 20:05:17 -0400",
+      "minecraft:mountains": "2021-10-27 20:15:00 -0400",
+      "minecraft:desert_hills": "2021-10-27 20:18:02 -0400",
+      "minecraft:desert": "2021-10-27 20:17:40 -0400",
+      "minecraft:jungle": "2021-10-27 20:13:11 -0400",
+      "minecraft:jungle_hills": "2021-10-27 20:16:23 -0400",
+      "minecraft:river": "2021-10-27 20:11:54 -0400",
+      "minecraft:wooded_hills": "2021-10-27 20:08:12 -0400",
+      "minecraft:savanna": "2021-10-27 20:12:00 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}

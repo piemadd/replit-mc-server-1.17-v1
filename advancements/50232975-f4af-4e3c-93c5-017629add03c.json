@@ -1,0 +1,114 @@
+{
+  "ggunz:recipes/misc/gold_block": {
+    "criteria": {
+      "has_raw_gold": "2021-08-07 19:09:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-08-07 19:15:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-08-07 19:07:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-08-07 19:07:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2021-08-07 19:09:32 -0400"
+    },
+    "done": true
+  },
+  "ggunz:recipes/misc/iron_block": {
+    "criteria": {
+      "has_raw_iron": "2021-08-07 19:09:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-08-07 19:09:38 -0400"
+    },
+    "done": true
+  },
+  "ggunz:recipes/misc/copper_block": {
+    "criteria": {
+      "has_raw_copper": "2021-08-07 19:09:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-08-07 19:07:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-08-07 19:07:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2021-08-07 19:15:42 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2021-08-07 19:09:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-08-07 19:09:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-08-07 19:07:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-08-07 19:07:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2021-08-07 19:09:38 -0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-08-07 19:06:40 -0400",
+      "minecraft:snowy_tundra": "2021-08-07 19:15:08 -0400",
+      "minecraft:frozen_river": "2021-08-07 19:15:25 -0400",
+      "minecraft:snowy_beach": "2021-08-07 19:15:06 -0400",
+      "minecraft:deep_lukewarm_ocean": "2021-08-07 19:12:31 -0400",
+      "minecraft:beach": "2021-08-07 19:09:25 -0400",
+      "minecraft:river": "2021-08-07 19:08:12 -0400",
+      "minecraft:lukewarm_ocean": "2021-08-07 19:12:38 -0400",
+      "minecraft:wooded_hills": "2021-08-07 19:07:44 -0400",
+      "minecraft:plains": "2021-08-07 19:13:07 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}

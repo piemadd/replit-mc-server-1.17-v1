@@ -1,0 +1,104 @@
+{
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2021-08-10 04:51:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2021-08-10 04:51:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-08-10 04:50:49 -0400"
+    },
+    "done": true
+  },
+  "ggunz:recipes/misc/gold_block": {
+    "criteria": {
+      "has_raw_gold": "2021-08-10 04:51:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-08-10 04:50:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2021-08-10 04:51:30 -0400"
+    },
+    "done": true
+  },
+  "ggunz:recipes/misc/iron_block": {
+    "criteria": {
+      "has_raw_iron": "2021-08-10 04:51:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-08-10 04:50:49 -0400"
+    },
+    "done": true
+  },
+  "ggunz:recipes/misc/copper_block": {
+    "criteria": {
+      "has_raw_copper": "2021-08-10 04:51:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-08-10 04:50:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-08-10 04:51:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-08-10 04:51:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-08-10 04:50:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-08-10 04:50:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-08-10 04:49:57 -0400",
+      "minecraft:deep_lukewarm_ocean": "2021-08-10 04:52:57 -0400",
+      "minecraft:beach": "2021-08-10 04:51:46 -0400",
+      "minecraft:river": "2021-08-10 04:51:21 -0400",
+      "minecraft:lukewarm_ocean": "2021-08-10 04:53:04 -0400",
+      "minecraft:plains": "2021-08-10 04:53:37 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-08-10 04:51:30 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 2730
+}

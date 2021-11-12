@@ -1,0 +1,27 @@
+{
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-07-24 13:47:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-07-24 13:47:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2021-07-24 13:47:45 -0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-07-24 13:47:17 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}
